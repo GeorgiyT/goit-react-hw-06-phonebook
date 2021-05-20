@@ -29,10 +29,4 @@ class App extends React.Component {
   }
 }
 
-const mapStateToProps = () => {};
-
-const mapDispatchToProps = dispatch => {
-  return {};
-};
-
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+export default App;
